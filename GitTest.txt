@@ -1,0 +1,1 @@
+This is just a testing note. If this file is seen in git it has accomplished its purpose.
